@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Sayago</h1>
 <h3 align="center">A passionate frontend developer from Venezuela, people call me Saya</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [https://manuelsayago.bstatic.io/](https://manuelsayago.bstatic.io/)
-
 - 💬 Ask me about **React, Vue**
 
 <h3 align="left">Connect with me:</h3>
